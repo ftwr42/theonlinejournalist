@@ -1,0 +1,54 @@
+{
+  "database" : {
+    "nodes": [
+      {
+        "link": "https://www.welt.de/politik/ausland/video241607261/Russlands-Teilmobilmachung-Militaer-Oekonom-analysiert-aktuelle-Lage-im-Ukraine-Krieg.html",
+        "header": "Plötzlich zwingt Putin die Russen, für ihn zu sterben",
+        "publishData": "15.10.1986",
+        "source": "Welt",
+        "id": 1,
+        "connectors":[]
+      },
+      {
+        "link": "https://www.welt.de/politik/ausland/video241607261/Russlands-Teilmobilmachung-Militaer-Oekonom-analysiert-aktuelle-Lage-im-Ukraine-Krieg.html",
+        "header": "Plötzlich zwingt Putin die Russen, für ihn zu sterben",
+        "publishData": "15.10.1986",
+        "source": "Welt",
+        "id": 2,
+        "connectors":[]
+      },
+      {
+        "link": "https://www.welt.de/politik/ausland/video241607261/Russlands-Teilmobilmachung-Militaer-Oekonom-analysiert-aktuelle-Lage-im-Ukraine-Krieg.html",
+        "header": "Plötzlich zwingt Putin die Russen, für ihn zu sterben",
+        "publishData": "15.10.1986",
+        "source": "Welt",
+        "id": 3,
+        "connectors":[]
+      },
+      {
+        "link": "https://www.welt.de/politik/ausland/video241607261/Russlands-Teilmobilmachung-Militaer-Oekonom-analysiert-aktuelle-Lage-im-Ukraine-Krieg.html",
+        "header": "Plötzlich zwingt Putin die Russen, für ihn zu sterben",
+        "publishData": "15.10.1986",
+        "source": "Welt",
+        "id": 4,
+        "connectors":[]
+      },
+      {
+        "link": "https://www.welt.de/politik/ausland/video241607261/Russlands-Teilmobilmachung-Militaer-Oekonom-analysiert-aktuelle-Lage-im-Ukraine-Krieg.html",
+        "header": "Plötzlich zwingt Putin die Russen, für ihn zu sterben",
+        "publishData": "15.10.1986",
+        "source": "Welt",
+        "id": 5,
+        "connectors":[]
+      },
+      {
+        "link": "https://www.welt.de/politik/ausland/video241607261/Russlands-Teilmobilmachung-Militaer-Oekonom-analysiert-aktuelle-Lage-im-Ukraine-Krieg.html",
+        "header": "Plötzlich zwingt Putin die Russen, für ihn zu sterben",
+        "publishData": "15.10.1986",
+        "source": "Welt",
+        "id": 6,
+        "connectors":[]
+      }
+    ]
+  }
+}
